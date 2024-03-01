@@ -6,3 +6,4 @@ Des programmes en langage C :
              A - nombre réel en binaire avec la méthode de virgule fixe
              B - un nomber en binaire et affaiche come nomber reel avec la methode de virgule fixe
              C - représenter un nombre réel en binaire avec la méthode de virgule flottante en Codage IEEE 754 avec simple précision et double précision
+             
