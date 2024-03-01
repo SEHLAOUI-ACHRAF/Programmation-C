@@ -301,7 +301,7 @@ L’algorithme :
 
     Fin
 
-le 3eme problème : Representation des nombres à virgule :
+# le 3eme problème : Representation des nombres à virgule :
 
     Un programme permettant de représenter les nombres à virgule fixe et virgule flottante.
     Codage IEEE 754 (Simple précision : 32 bits)
