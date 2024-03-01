@@ -103,7 +103,7 @@ int main()
         exit(1);
     }
 
-    tab_exp = (int*)malloc(expo_bits*sizeof(int)); // pour la partie d’exposant
+    tab_exp = (int*)malloc(expo_bits*sizeof(int)); // pour la partie dï¿½exposant
     tab_mn = (int*)malloc(mn_bits*sizeof(int)); // pour la partie de mantisse
     tab_sig = (int*)malloc(sizeof(int)); // pour le signe
 
@@ -132,7 +132,7 @@ int main()
         else
             i++;
     }
-    v = i+1; // v est la position de la 1er [1] dans le tableau pour remplire la partie d’exposant
+    v = i+1; // v est la position de la 1er [1] dans le tableau pour remplire la partie dï¿½exposant
     int e = size_0 - v;
     int E = e + 127;
     tabB_V = decimal_vers_binaire_int(E, &size);
